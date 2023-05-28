@@ -1,5 +1,5 @@
 # Samr
- codes written in layman language
+ codes written in for practicing Git
 
 
 #making changes
