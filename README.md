@@ -1,4 +1,4 @@
-# Samr
+# GitLearning
  codes written in for practicing Git
 
 
